@@ -9,5 +9,12 @@
   "examplemod.configuration.items": "Item List",
   "examplemod.configuration.logDirtBlock": "Log Dirt Block",
   "examplemod.configuration.magicNumberIntroduction": "Magic Number Text",
-  "examplemod.configuration.magicNumber": "Magic Number"
+  "examplemod.configuration.magicNumber": "Magic Number",
+
+  "clientsidepishock.configuration.op_mode": "Operation",
+  "clientsidepishock.configuration.intensity": "Intensity",
+  "clientsidepishock.configuration.duration": "Duration",
+  "clientsidepishock.configuration.api_key": "Api Key",
+  "clientsidepishock.configuration.username": "Username",
+  "clientsidepishock.configuration.share_code": "Share Code"
 }
