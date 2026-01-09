@@ -1,25 +1,21 @@
 
-Installation information
+What
 =======
+A PiShock integration for Minecraft used in a YouTube video by PenguinThatFlew. 
+Unmaintained - fork at your own risk!
 
-This template repository can be directly cloned to get you started with a new
-mod. Simply create a new repository cloned from this one, by following the
-instructions provided by [GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
-
-Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
-
-If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
-
-Mapping Names:
+How do I get the same Replay Mod / PiShock setup that you had? 
 ============
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
+There is a folder in this repo called "DOWNLOAD_THESE". Those are the .jar files I used and the ones you need.
 
-Additional Resources: 
+Versions
+============
+Game Version - 1.21.8
+Modloader - 21.8.52
+
+Attributions 
 ==========
-Community Documentation: https://docs.neoforged.net/  
-NeoForged Discord: https://discord.neoforged.net/
+I am not the first one to do this.
+
+Much of this code was copied from [this](https://github.com/ojaha065/PiShockForMC/tree/main) older repo.
+You can make something like this yourself by following [this](https://www.youtube.com/watch?v=yG-oJPR_40w&list=PLKGarocXCE1G6CQOoiYdMVx-E1d9F_itF) tutorial on NeoForge from Kaupenjoe. 
