@@ -6,7 +6,7 @@ Unmaintained and relatively jank - fork at your own risk!
 
 How do I get the same Replay Mod / PiShock setup that you had? 
 ============
-There is a folder in this repo called "DOWNLOAD_THESE". Those are the .jar files I used and the ones you need.
+Navigate to Releases and download the .jar files. Those are the same files I used and the ones you need.
 
 Make an installation on Curseforge with:
 
