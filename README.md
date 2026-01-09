@@ -2,16 +2,19 @@
 What
 =======
 A PiShock integration for Minecraft used in a YouTube video by PenguinThatFlew. 
-Unmaintained - fork at your own risk!
+Unmaintained and relatively jank - fork at your own risk!
 
 How do I get the same Replay Mod / PiShock setup that you had? 
 ============
 There is a folder in this repo called "DOWNLOAD_THESE". Those are the .jar files I used and the ones you need.
 
-Versions
-============
-Game Version - 1.21.8
-Modloader - 21.8.52
+Make an installation on Curseforge with:
+
+Minecraft 1.21.8
+
+Neoforge 21.8.52
+
+Make sure to change the values in the config, and you should be good to go
 
 Attributions 
 ==========
